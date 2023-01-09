@@ -5,18 +5,25 @@ Power BI is a cloud-based business intelligence service. It is used to convert r
 ## Prerequisites
 
 Power BI Desktop Software
+
 Python for data Analyses
 
 ## Getting Started
 
 Install the Power Bi application and import the Dashboard-1.pbix into Power BI.
+
 Run the Covid-19 Analysis.ipynb notebook and get the processed dataset(CoronaVirus PowerBI Raw).
 
 ## Dashboard Features
 
 CoronaVirus Summary Statistics
+
 o CoronaVirus Trends
+
 o CoronaVirus Forecasts
+
 o CoronaVirus breakdown analytics
+
 o Coronavirus country wise statistics
+
 o Coronavirus Datewise statistics
